@@ -4,7 +4,7 @@ an alternate approach to the official hass.io utility_meter
 This code originally comes from 
 https://github.com/home-assistant/home-assistant
 
-full credit to @dgomes and @fabaff code.  I only added my bits.
+full credit to [@dgomes](https://github.com/dgomes) and [@fabaf](https://github.com/fabaff) for original code.  I only added my bits.
 
 The standard component is great, howver it did not suit my needs, and the devs did not think there was a need for change/enhancement.
 
