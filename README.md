@@ -29,5 +29,9 @@ The instead of attempting to calculate a delta on every change, this mode rather
 
 It's not perfect though.  The downside is that if you have a sensor that resets to ZERO (0) randomly, this is not going to work for you.
 
+Installation is simple. Follow these basic instructions:
+
+https://developers.home-assistant.io/docs/en/creating_component_loading.html
+
 Well There you go.
 Enjoy.
