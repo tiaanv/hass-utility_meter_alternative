@@ -29,6 +29,8 @@ The instead of attempting to calculate a delta on every change, this mode rather
 
 It's not perfect though.  The downside is that if you have a sensor that resets to ZERO (0) randomly, this is not going to work for you.
 
+When you install this component, it will "replace" the built in utility_meter component.  You can of course revert back by simply removing the custom one.  That being said.  This version will work exactly as the built in one, unless you change the mode as explained above.
+
 Installation is simple. Follow these basic instructions:
 
 https://developers.home-assistant.io/docs/en/creating_component_loading.html
